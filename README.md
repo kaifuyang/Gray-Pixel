@@ -1,6 +1,7 @@
 #  MATLAB codes for Grey Pixel detection
 **--GreyPixel_CVPR2015.zip--**  
-Source codes of the Gray pixel detection method reported in "KF Yang, SB Gao, YJ Li*. Efficient Illuminant Estimation for Color Constancy Using Grey Pixels. CVPR, 2015".
+Source codes of the Gray pixel detection method reported in  
+"KF Yang, SB Gao, YJ Li*. Efficient Illuminant Estimation for Color Constancy Using Grey Pixels. CVPR, 2015".
 
 **--RGP_code_beta.zip--**  
 Source codes of the Robust Gray pixel detection.

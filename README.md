@@ -5,7 +5,7 @@ Source codes of the Gray pixel detection method reported in
 
 We systematically developed Gray-pixel methods for illuminant estimation. This included proposing the gray-pixel hypothesis, validating it, and developing algorithms for color constancy.
 
-**--RGP_code_beta.zip--**  
+**--RGP_JOSAA2024.zip--**  
 Source codes of the Robust Gray pixel detection reported in
 C Cheng, KF Yang*, XM Wan, LLH Chen, YJ Li. Nighttime Color Constancy Using Robust Gray Pixels. JOSA A, 2024.
   
